@@ -6,6 +6,7 @@ DSA practice
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pundraj/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pundraj/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ DSA practice
 |  |
 | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pundraj/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pundraj/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
