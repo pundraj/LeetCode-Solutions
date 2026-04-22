@@ -10,6 +10,7 @@ DSA practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pundraj/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pundraj/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pundraj/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pundraj/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ DSA practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pundraj/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +54,8 @@ DSA practice
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pundraj/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
