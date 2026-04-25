@@ -11,6 +11,7 @@ DSA practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pundraj/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pundraj/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pundraj/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ DSA practice
 ## Math
 |  |
 | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pundraj/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@ DSA practice
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pundraj/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +61,12 @@ DSA practice
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Sorting
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
