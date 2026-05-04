@@ -7,6 +7,6 @@ BEGIN
       SELECT DISTINCT salary
       FROM Employee
       ORDER BY salary DESC
-      LIMIT offset_val, 1
+      LIMIT 1 offset offset_val
   );
 END;
