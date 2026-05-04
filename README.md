@@ -8,6 +8,7 @@ DSA practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/pundraj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pundraj/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/pundraj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pundraj/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pundraj/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -21,6 +22,7 @@ DSA practice
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pundraj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/pundraj/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
@@ -69,4 +71,8 @@ DSA practice
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/pundraj/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pundraj/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
