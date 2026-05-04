@@ -75,4 +75,8 @@ DSA practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pundraj/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pundraj/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
