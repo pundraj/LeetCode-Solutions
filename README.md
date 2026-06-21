@@ -33,10 +33,12 @@ DSA practice
 | [0125-valid-palindrome](https://github.com/pundraj/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pundraj/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pundraj/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/pundraj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pundraj/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/pundraj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/pundraj/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Binary Search
 |  |
@@ -80,4 +82,8 @@ DSA practice
 | ------- |
 | [0176-second-highest-salary](https://github.com/pundraj/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/pundraj/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pundraj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
