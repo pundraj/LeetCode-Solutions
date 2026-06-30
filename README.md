@@ -56,6 +56,7 @@ DSA practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pundraj/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pundraj/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
@@ -86,4 +87,16 @@ DSA practice
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/pundraj/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pundraj/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pundraj/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pundraj/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
